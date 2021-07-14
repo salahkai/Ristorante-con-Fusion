@@ -20,7 +20,7 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #1EA485 ;
+    background: rgb(32, 116, 195) ;
     color:floralwhite;
 }
 
@@ -30,6 +30,20 @@ address{
     color:white;
 
 }
-a{
+#links a{
     color:white;
+}
+#address a{
+    color:white;
+}
+#contactlinks a{
+    color:white;
+
+}
+body{
+    padding-top:50px;
+    z-index: 0;
+}
+.navbar-dark{
+background-color: #074E80;
 }

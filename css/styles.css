@@ -5,6 +5,7 @@
 
 .row-content {
     margin:0px auto;
+    margin-bottom: 20px;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height:200px;

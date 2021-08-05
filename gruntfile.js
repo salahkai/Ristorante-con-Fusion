@@ -18,7 +18,7 @@ module.exports = function (grunt) {
         },
         watch:{
             files: 'css/*.scss',
-            [tasks]:['sass']
+            tasks:['sass']
         },
         browserSync: {
             dev:{

@@ -1,4 +1,3 @@
-<script>
 $(document).ready(function(){
     $('#mycarousel').carousel({interval:2000});
     $('#loginbtn').click(function(){
@@ -21,4 +20,3 @@ $(document).ready(function(){
         }
     });
 })
-</script>
